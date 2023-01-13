@@ -1,6 +1,6 @@
 FROM jetbrains/teamcity-minimal-agent:2022.10.1
 
-ARG jdkUrl='https://corretto.aws/downloads/latest/amazon-corretto-190-x64-linux-jdk.tar.gz' 
+ARG jdkUrl='https://corretto.aws/downloads/latest/amazon-corretto-19-x64-linux-jdk.tar.gz' 
 
 USER root
 
