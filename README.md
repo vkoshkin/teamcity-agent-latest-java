@@ -1,4 +1,4 @@
-# teamcity-agent
+# teamcity-agent-latest-java
 
 TeamCity Agent with latest java (JDK 19).
 
