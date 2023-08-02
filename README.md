@@ -1,6 +1,6 @@
 # teamcity-agent-latest-java
 
-TeamCity Agent with latest java (JDK 19).
+TeamCity Agent with latest java (JDK 20).
 
 ## Tag
 
