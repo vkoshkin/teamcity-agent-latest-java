@@ -1,4 +1,4 @@
-FROM jetbrains/teamcity-minimal-agent:2023.05.2
+FROM jetbrains/teamcity-minimal-agent:2023.05.4
 
 ARG jdkUrl='https://corretto.aws/downloads/latest/amazon-corretto-20-x64-linux-jdk.tar.gz' 
 
